@@ -10,7 +10,7 @@ const SteeringLimits SUBARU_STEERING_LIMITS = {
 };
 
 const SteeringLimits SUBARU_GEN2_STEERING_LIMITS = {
-  .max_steer = 1000,
+  .max_steer = 2047,
   .max_rt_delta = 940,
   .max_rt_interval = 250000,
   .max_rate_up = 40,
